@@ -1,3 +1,4 @@
+feat: TMDb-Movie-Data-Analysis
 # TMDb-Movie-Data-Analysis
   
 In this project, I will be analyzing data associated with the TMDb movie [here](https://www.kaggle.com/tmdb/tmdb-movie-metadata).
@@ -22,3 +23,9 @@ In particular, I will be interested in the following questions:
 
 
 Throughout my analysis film revenue will be dependent variable, while popularity, runtime and vote average will be independent variables. For second question, popularity will be dependent variable, while genres, release date and runtime will be independent variables.
+
+If you use an issue tracker, put references to them at the bottom,
+like this:
+
+Resolves: #123
+See also: #456, #789
