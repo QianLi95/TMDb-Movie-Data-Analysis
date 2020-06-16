@@ -1,9 +1,11 @@
 feat: TMDb-Movie-Data-Analysis
 # TMDb-Movie-Data-Analysis
   
-In this project, I will be analyzing data associated with the TMDb movie [here](https://www.kaggle.com/tmdb/tmdb-movie-metadata).
+In this project, I will be analyzing data associated with the TMDb movie
+[here](https://www.kaggle.com/tmdb/tmdb-movie-metadata).
 
-Each row corresponds to a movie and includes a range of data about each film. Relevant data to be used in the following analysis include the following variables:
+Each row corresponds to a movie and includes a range of data about each film. 
+Relevant data to be used in the following analysis include the following variables:
 
 ## Variables
 
@@ -22,7 +24,9 @@ In particular, I will be interested in the following questions:
    * What kinds of properties associated with movies that have more popularity? 
 
 
-Throughout my analysis film revenue will be dependent variable, while popularity, runtime and vote average will be independent variables. For second question, popularity will be dependent variable, while genres, release date and runtime will be independent variables.
+Throughout my analysis film revenue will be dependent variable, while popularity, runtime and 
+vote average will be independent variables. For second question, popularity will be dependent variable, 
+while genres, release date and runtime will be independent variables.
 
 If you use an issue tracker, put references to them at the bottom,
 like this:
